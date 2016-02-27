@@ -1,5 +1,5 @@
 ---
-title: How to easilyBurn fat at home (No gym) 
+title: How to burn fat at home (No equipments required) 
 layout: post
 categories: health / lifehacks
 author: Derek Durham
