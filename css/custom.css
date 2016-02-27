@@ -1,0 +1,48 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+.blog-mason{
+	margin-top: -50px;
+}
+.mb400 {
+  margin-bottom: 400px;
+}
+.pp{
+	padding-left: 8px;
+}
+
+.masonry-75{
+	width: 77.5%;
+	float: left;
+	position: relative;
+}
+
+.masonry-25{
+	width: 25%;
+	float: right;
+	position: relative;
+}  
+.logo-categories{
+	padding-left: 33.5px;
+}
+
+/* experiment index */
+.index-masonry{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+/* post */
+.post-author-size{
+	font-size: 15px;
+}
+
+/* index masonry */
+.index-title-font{
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+}
+
+/*footer font */
+
+.footer-font{
+	font-size: 15px;
+}
