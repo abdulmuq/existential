@@ -688,7 +688,7 @@ footer.bg-dark li,
 /*!---------- 6. BUTTONS ----------*/
 .btn {
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  border: 2px solid #1695A3;
+  border: 2px solid #2980B9;
   padding: 0 26px;
   height: 40px;
   min-width: 150px;
@@ -697,8 +697,8 @@ footer.bg-dark li,
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
-  border-radius: 5px;
-  color: #1695A3;
+  border-radius: 3px;
+  color: #2980B9;
   text-align: center;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
@@ -786,7 +786,7 @@ body.btn-rounded .btn {
   color: #222;
 }
 .btn:visited {
-  color: #1695A3;
+  color: #2980B9;
 }
 .btn-white:visited,
 .btn:visited:hover {
@@ -2665,8 +2665,8 @@ form iframe.mail-list-form {
   font-family: "Quattrocento Sans";
   letter-spacing: 0.3px;
   word-spacing: 5px;
-  font-weight: 500;
-  color: #1695A3;
+  font-weight: 700;
+  color: #225378;
 }
 .link-list a:after {
   content: "\e628";

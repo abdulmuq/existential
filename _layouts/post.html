@@ -11,7 +11,8 @@ layout: default_post
                             <div class="post-snippet mb8">
                                 <div class="post-title">
                                     <h4 class="inline-block">{{ page.title }}</h4>
-                                    <ul class="tags pull-right">
+                                </div>
+                                <ul class="tags pull-right">
                                     <li>
                                         <a class="btn btn-sm btn-icon" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">
                                             <i class="ti-twitter-alt"></i>
@@ -23,7 +24,6 @@ layout: default_post
                                         </a>
                                     </li>
                                 </ul>
-                                </div>
                                 <ul class="post-meta post-author-size">
                                     <li>
                                         <span class="label">{{ page.date | date_to_string }}</span>
@@ -47,28 +47,6 @@ layout: default_post
                     <!--end of 9 col-->
                     <div class="col-md-3 hidden-sm">
                         
-                        <!--end of widget-->
-                        <div class="widget">
-                            <h6 class="title">Categories</h6>
-                            <hr>
-                            <ul class="link-list">
-                                <li>
-                                    <a href="{{ site.url }}/trending.html">Trending</a>
-                                </li>
-                                <li>
-                                    <a href="{{ site.url }}/lifehacks.html">Lifehacks</a>
-                                </li>
-                                <li>
-                                    <a href="{{ site.url }}/health.html">Health</a>
-                                </li>
-                                <li>
-                                    <a href="{{ site.url }}/food.html">Food</a>
-                                </li>
-                                <li>
-                                    <a href="{{ site.url }}/technology.html">Technology</a>
-                                </li>
-                            </ul>
-                        </div>
                         <div class="widget">
                                 <h6 class="title">Recent Posts</h6>
                                 <hr>
