@@ -74,6 +74,7 @@ ul.bullets {
 }
 .main-container {
   clear: both;
+  padding-top: 80px;
 }
 hr {
   border: none;
@@ -469,7 +470,7 @@ a:hover {
   font-weight: 700;
   letter-spacing: 1px;
   background: gray;
-  border-radius: 0;
+  border-radius: 3px;
   padding: 6px 12px;
   font-size: 10px;
   vertical-align: middle;
@@ -687,7 +688,7 @@ footer.bg-dark li,
 /*!---------- 6. BUTTONS ----------*/
 .btn {
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  border: 1px solid #1971cc;
+  border: 2px solid #1971cc;
   padding: 0 26px;
   height: 40px;
   min-width: 150px;
@@ -696,7 +697,7 @@ footer.bg-dark li,
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
-  border-radius: 0;
+  border-radius: 5px;
   color: #5c5c5c;
   text-align: center;
   transition: all 0.3s ease;
@@ -808,6 +809,12 @@ body.btn-rounded .btn {
 .nav-container {
   -webkit-backface-visibility: hidden;
   max-width: 100%;
+  position: fixed;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+
+
 }
 nav {
   background: #fff;
@@ -857,6 +864,7 @@ nav .btn,
   line-height: 80px;
   border-bottom: 1px solid #ccc;
   text-align: center;
+
 }
 .nav-bar .module,
 .nav-bar .module-group {
@@ -2881,7 +2889,7 @@ img {
 .inner-title .title h5,
 .inner-title .title h6 {
   padding: 14px;
-  color: #ffffff;
+  color: #f4f4f4;
 }
 .inner-title .title p,
 .inner-title .title span,
@@ -3743,7 +3751,7 @@ video {
 }
 /*!---------- 28. BLOG ----------*/
 .post-title .label {
-  margin-right: 16px;
+  float: right;
 }
 .post-title h4 {
   position: relative;

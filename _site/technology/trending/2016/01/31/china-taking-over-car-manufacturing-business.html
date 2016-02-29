@@ -89,25 +89,7 @@
                             <div class="post-snippet mb8">
                                 <div class="post-title">
                                     <h4 class="inline-block">The West used to make the best cars. China now has the lead and is taking over the world.</h4>
-                                </div>
-                                <ul class="post-meta post-author-size">
-                                    <li>
-                                        <span class="label">31 Jan 2016</span>
-                                    </li>
-                                    <li>
-                                        <i class="ti-user"></i>
-                                        <span>Written by
-                                            <a href="#">Derek Durham</a>
-                                        </span>
-                                    </li>
-                                    <li>
-                                        <i class="ti-tag"></i>
-                                        <span>Category
-                                            <a href="#">technology/trending</a>
-                                        </span>
-                                    </li>
-                                </ul>
-                                <ul class="tags pull-right">
+                                    <ul class="tags pull-right">
                                     <li>
                                         <a class="btn btn-sm btn-icon" href="https://twitter.com/intent/tweet?text=The West used to make the best cars. China now has the lead and is taking over the world.&url=/technology//trending/2016/01/31/china-taking-over-car-manufacturing-business.html&via=&related=" rel="nofollow" target="_blank" title="Share on Twitter">
                                             <i class="ti-twitter-alt"></i>
@@ -119,6 +101,18 @@
                                         </a>
                                     </li>
                                 </ul>
+                                </div>
+                                <ul class="post-meta post-author-size">
+                                    <li>
+                                        <span class="label">31 Jan 2016</span>
+                                    </li>
+                                    <li>
+                                        <span>Written by
+                                            <a href="#">Derek Durham</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                                
                                 
                                 <p>Three new cars from Volvo, Buick and Cadillac will not show a Made in China label. But those cars are breaking new ground in the auto industry, becoming the first to be manufactured in the People’s Republic and exported to the United States.</p>
 
@@ -314,14 +308,24 @@ s.setAttribute('data-timestamp', +new Date());
   <script src="http://existential.us/js/masonry.min.js"></script>
   <script src="http://existential.us/js/parallax.js"></script>
   <script src="http://existential.us/js/scripts.js"></script>
-  <script src="/js/headroom.js">
-  // grab an element
-var myElement = document.querySelector("header");
-// construct an instance of Headroom, passing the element
-var headroom  = new Headroom(myElement);
-// initialise
-headroom.init(); 
-</script>
+  
+<!-- Headroom -->
+<script src="http://getbootstrap.com/2.3.2/assets/js/jquery.js"></script>
+    <script src="http://getbootstrap.com/2.3.2/assets/js/bootstrap.js"></script>
+
+     <!-- HeadRoom  -->
+    <style type="text/css">
+    .headroom {position: fixed;top: 0;left: 0;right: 0;transition: all .2s ease-in-out;}
+    .headroom--unpinned {top: -100px;}
+    .headroom--pinned {top: 0;}
+    </style>
+   <script  type="text/javascript"  src="https://rawgithub.com/WickyNilliams/headroom.js/master/dist/headroom.js"></script>      
+   <script  type="text/javascript"  src="https://rawgithub.com/WickyNilliams/headroom.js/master/src/jQuery.headroom.js"></script>
+    <script type="text/javascript">
+        $(".nav-container").headroom();
+    </script>      
+
+
   
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

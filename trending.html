@@ -22,11 +22,11 @@ title: trending
                             <div class="inner">
                                 <a href="{{ post.url }}">
                                     <h5 class="mb0">{{ post.title }}</h5>
-                                    <span class="inline-block mb16">{{ post.date | date_to_string }}</span>
+                                    <span class="inline-block mb4 date-font">{{ post.date | date_to_string }}</span>
                                 </a>
                                 <hr>
-                                <p>
-                                    {{ post.content | strip_html | truncatewords: 30 }}
+                                <p class="category-font">
+                                    {{ post.content | strip_html | truncatewords: 25 }}
                                 </p>
                                 <a class="btn btn-sm" href="{{ post.url }}">Read More</a>
                                 <ul class="tags pull-right">
