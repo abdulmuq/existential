@@ -53,7 +53,7 @@
 	font-size: 13px;
 	font-family: "Quattrocento Sans";
 	color: #1971cc;
-	font-weight: 400;
+	font-weight: 600;
 	letter-spacing: 0.5px
 }
 
@@ -61,7 +61,17 @@
 	font-size: 15px;
 	font-family: "Quattrocento Sans";
 	font-weight: 400;
-	letter-spacing: 0.5px
+	letter-spacing: 0.5px;
+	line-height: 26px;
 }
 
+/*Navigation selected  */
 
+.nav-selected{
+	color: #1695A3;
+	font-weight: 700;
+}
+
+.bg-footer{
+	background: #225378;
+}

@@ -435,7 +435,7 @@ a {
     font-family: "montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
   font-weight: 200;
-  color:#1971cc;
+  color:#225378;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -469,7 +469,7 @@ a:hover {
   letter-spacing: 2px;
   font-weight: 700;
   letter-spacing: 1px;
-  background: gray;
+  background: #225378;
   border-radius: 3px;
   padding: 6px 12px;
   font-size: 10px;
@@ -524,7 +524,7 @@ blockquote .author {
   background: #f8f8f8;
 }
 .bg-dark {
-  background: #292929;
+  background: #225378;
 }
 .color-body {
   color: #666;
@@ -688,7 +688,7 @@ footer.bg-dark li,
 /*!---------- 6. BUTTONS ----------*/
 .btn {
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  border: 2px solid #1971cc;
+  border: 2px solid #1695A3;
   padding: 0 26px;
   height: 40px;
   min-width: 150px;
@@ -698,7 +698,7 @@ footer.bg-dark li,
   text-transform: uppercase;
   letter-spacing: 1px;
   border-radius: 5px;
-  color: #5c5c5c;
+  color: #1695A3;
   text-align: center;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
@@ -711,7 +711,7 @@ footer.bg-dark li,
   margin-right: 0;
 }
 .btn:hover {
-  background: black;
+  background: #1695A3;
   color: #fff;
 }
 .btn-icon {
@@ -786,7 +786,7 @@ body.btn-rounded .btn {
   color: #222;
 }
 .btn:visited {
-  color: #2f2f2f;
+  color: #1695A3;
 }
 .btn-white:visited,
 .btn:visited:hover {
@@ -832,7 +832,7 @@ nav ul {
 .module-group {
   display: inline-block;
   position: relative;
-  padding-right: 270px;
+  padding-right: 260px;
 }
 .module.left,
 .module-group.left {
@@ -876,7 +876,7 @@ nav .btn,
 }
 .logo {
   max-height: 100%;
-  padding-left: 33.5px;
+  margin-left: 75px;
   position: relative;
 }
 .logo-light {
@@ -918,7 +918,7 @@ nav.bg-dark .logo-dark {
   text-transform: uppercase;
   font-weight: 600;
   letter-spacing: 1px;
-  color: #1c1c1c;
+  color: #225378;
   opacity: 0.7;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
@@ -2666,7 +2666,7 @@ form iframe.mail-list-form {
   letter-spacing: 0.3px;
   word-spacing: 5px;
   font-weight: 500;
-  color: gray;
+  color: #1695A3;
 }
 .link-list a:after {
   content: "\e628";
@@ -2889,7 +2889,7 @@ img {
 .inner-title .title h5,
 .inner-title .title h6 {
   padding: 14px;
-  color: #f4f4f4;
+  color: #F3FFE2;
 }
 .inner-title .title p,
 .inner-title .title span,
@@ -3757,6 +3757,7 @@ video {
   position: relative;
   top: 2px;
   margin-bottom: 16px;
+  color: #EB7F00;
 }
 .post-meta,
 .post-meta .tags {
@@ -4342,7 +4343,7 @@ video {
 }
 /*!---------- 35. FOOTERS ----------*/
 footer.bg-dark a {
-  color: #fff;
+  color: #ACF0F2;
 }
 .footer-1 .logo {
   max-height: 30px;
@@ -4354,7 +4355,7 @@ footer.bg-dark a {
   margin: 0;
 }
 .image-bg .social-list a {
-  color: #fff;
+  color: #ACF0F2;
 }
 .bg-dark .social-list a,
 .image-bg .social-list a {
