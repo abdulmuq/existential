@@ -6,8 +6,6 @@ author: Radhika Makhecha
 image: /img/apple-vs-fbi-2.jpg
 ---
 
-Why Apple is resistant to help FBI hack San Bernadino Shooter's iPhone
-
 The Apple vs FBI controversy recently caught huge attention from people across the world. From what is projected on TV and print media, it seems like Apple is not cooperating with the FBI in its investigation about San Bernadino mass shootings, which resulted in a disheartening loss of 14 lives in a self-proclaimed act of terrorism. One of the convicts phone, an iPhone 5c is at the root of all the debate between user’s privacy and national security.
 
 **Is Apple’s resistance to help FBI hack San Bernadino Shooter’s iPhone justified?**
