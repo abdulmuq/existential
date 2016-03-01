@@ -19,6 +19,7 @@ The Apple vs FBI controversy recently caught huge attention from people across t
 I am sure, these questions would come up in everybody’s mind who is slightest thoughtful about national security, understands its importance and knows what is digital privacy, and not just Americans.
 
 ![Existential - Apple VS the FBI](/img/apple-vs-fbi.jpg)
+Courtesy: [YouTube](https://www.youtube.com/)
 
 The reason why people are being skeptical about Apple’s sincerity in helping FBI is there is general belief that everybody is supposed to cooperate with FBI if it’s about any act that threatens national security.
 
@@ -31,9 +32,9 @@ FBI is unable to hack iPhone having strong encryption mechanism to protect again
 
 According to a rough estimate, it will cost around $100,939 and two to four weeks to deliver the project, with Apple’s best people working on it. Some experts believe that this estimate includes only the cost of building OS and not the other infrastructure required, for example, a separate high security building.
 
-Although FBI is ready to reimburse every penny, Apple believes that complying with this request would mean allowing federal government to overreach. **All major tech companies like Google, Microsoft, Facebook and Twitter back Apple with legal filing in FBI case.**
+Although FBI is ready to reimburse every penny, Apple believes that complying with this request would mean allowing federal government to overreach. All major tech companies like [Google, Microsoft, Facebook and Twitter back Apple with legal filing in FBI case.](http://recode.net/2016/02/25/google-will-join-microsoft-in-backing-apple-with-a-legal-filing-in-fbi-case/)
 
-However, Microsoft Co-founder Bill Gates backs FBI in its request to break into iPhone, citing that this is a one-off case and that FBI is not requesting any general information.
+However, Microsoft Co-founder [Bill Gates backs FBI in its request to break into iPhone](http://www.cnet.com/news/bill-gates-fbi-apple-iphone-backdoor-san-bernardino/), citing that this is a one-off case and that FBI is not requesting any general information.
 
 Let us know your thoughts about what do you think about Apple’s resistance against FBI’s request.
 Feel free to drop your comments.
