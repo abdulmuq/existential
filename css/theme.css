@@ -876,6 +876,7 @@ nav .btn,
 .logo {
   max-height: 100%;
   margin-left: 75px;
+  margin-top: 10px;
   position: relative;
 }
 .logo-light {
