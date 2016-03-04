@@ -1,7 +1,7 @@
 ---
 title: Impact of Global Warming on Changing Climatic Conditions
 layout: post
-categories: technology / trending
+categories: trending / health
 author: Radhika Makhecha
 image: /img/impact-of-global-warming-3.jpg
 ---
@@ -16,7 +16,7 @@ The reason is : **Global Warming.**
 
 ![Existential - impact-of-global-warming](/img/impact-of-global-warming.jpg)
 
-[Courtesy](https://commons.wikimedia.org/wiki/Main_Page)
+Courtesy: [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
 
 It is as if Earth is suffering from disease called global warming which if not cured on time, can destroy human existence.
 So, what are the symptoms, causes and remedies of this disease?
@@ -33,7 +33,7 @@ The IPCC states, “Taken as a whole, the range of published evidence indicates 
 
 ![Existential - himpact-of-global-warming](/img/impact-of-global-warming-2.jpg)
 
-[Courtesy](https://www.nasa.gov/)
+Courtesy: [NASA](https://www.nasa.gov/)
 
 This rise in temperature is largely due to rise in greenhouse gases produced by human activities. Water vapor, carbon dioxide, methane and nitrous oxide are primary greenhouse gases along with Chloroflorocarbons (CFCs). These gases trap the heat radiated by Earth’s surface towards space and act as warm blanket around Earth.
 Over past century due to industrial revolution and modern transportation, burning of fossil fuels like coal and oil has increased the concentration of atmospheric carbon dioxide.
