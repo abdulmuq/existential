@@ -25,14 +25,16 @@
 }
 
 /* experiment index */
-.index-masonry{
-	padding-left: 50px;
-	padding-right: 50px;
-}
+
 
 /* post */
+
 .post-author-size{
 	font-size: 14px;
+}
+
+.container-post{
+	margin-top: -50px;
 }
 
 /* index masonry */
@@ -74,4 +76,12 @@
 
 .bg-footer{
 	background: #225378;
+}
+
+.custom-index-width{
+	width:70%;
+}
+
+.mu10{
+	margin-top: 30px;
 }

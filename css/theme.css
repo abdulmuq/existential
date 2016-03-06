@@ -74,7 +74,7 @@ ul.bullets {
 }
 .main-container {
   clear: both;
-  padding-top: 80px;
+  padding: 80px 60px 0px 60px;
 }
 hr {
   border: none;
@@ -150,7 +150,6 @@ hr {
 }
 .container {
   position: relative;
-  margin-top: -50px;
 }
 @media all and (max-width: 1100px) {
   .col-md-push-1 {
@@ -2587,7 +2586,7 @@ form iframe.mail-list-form {
   padding: 0;
 }
 .page-title .container {
-  position: relative;
+  position: absolute;
   transform: translate3d(0, -50%, 0);
   -webkit-transform: translate3d(0, -50%, 0);
   top: 50%;
@@ -2633,7 +2632,7 @@ form iframe.mail-list-form {
 }
 .page-title-3,
 .page-title-4 {
-  height: 150px;
+  height: 280px;
 }
 .page-title-4 .breadcrumb {
   position: relative;
@@ -3910,7 +3909,7 @@ video {
   height: 50px;
   margin: 0 auto;
   border-radius: 50%;
-  box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.1), 2px 1px 0px #47b475;
+  box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.1), 2px 1px 0px #225378;
   -moz-animation: spin 0.7s linear infinite;
   -webkit-animation: spin 0.7s linear infinite;
   animation: spin 0.7s linear infinite;
