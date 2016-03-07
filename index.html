@@ -3,7 +3,7 @@ layout: default
 title: existential.us
 ---
   
-       <div class="main-container">		
+<!--        <div class="main-container">		
 			<section class="projects p0 bg-dark">
                 <div class="row masonry-loader fixed-center">
                     <div class="col-sm-12 text-center">
@@ -25,7 +25,62 @@ title: existential.us
                 {% endfor %}
                 </div>
             </section>
-        </div> 
+        </div> -->
 
 
-    
+    <div class="main-container">
+           
+            <section class="page-title page-title-4 index-cover image-bg overlay">
+                {% for post in site.posts limit:1 %}
+                <div>
+                    <a href="{{ post.url }}">
+                    <img alt="Background Image" class="background-image" src="{{ post.cover }}" />
+                    </a>
+                </div>
+
+                <div class="container">
+                    <div class="row index-cover">
+                        <div class="col-md-6">
+                            <a href="{{ post.url }}">
+                            <h4 class="uppercase mb0 mu30">{{ post.title }}</h3>
+                            <p class="lead mb0">{{ post.content | strip_html | truncatewords: 15 }}</p>
+                            </a>
+                        </div>
+                    </div>
+                    <!--end of row-->
+                </div>
+                {% endfor %}
+                <!--end of container-->
+            </section>
+
+        
+
+        <div class="widget index-widget">
+            <h6 class="title">Recent Posts</h6>   
+            <hr>
+        </div>
+
+        <section class="projects pt48">
+            <div class="index-masonry">
+                <div class="row masonry-loader fixed-center">
+                    <div class="col-sm-12 text-center">
+                        <div class="spinner"></div>
+                    </div>
+                </div>
+                <div class="row masonry">
+                    {% for post in site.posts offset:1 %}
+                    <div class="col-md-4 col-sm-6 masonry-item project">
+                        <div class="image-tile inner-title text-center">
+                            <a href="{{ post.url }}">
+                                <img alt="Pic" src="{{ post.image }}" />
+                                <div class="title">
+                                    <h5 class="uppercase mb0">{{ post.title }}</h5>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                {% endfor %}
+                </div>
+            </div>
+        </section>
+    </div>    

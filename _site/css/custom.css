@@ -78,10 +78,16 @@
 	background: #225378;
 }
 
-.custom-index-width{
+.index-cover{
 	width:70%;
+	margin-top: 20px;
 }
 
 .mu10{
 	margin-top: 30px;
+}
+
+.index-widget{
+	margin-bottom: -48px;
+	margin-top: 35px;
 }
