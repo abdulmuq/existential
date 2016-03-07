@@ -1,7 +1,7 @@
 ---
 title: Latest US Jobs Data a Sign of Robust Growth in Economy
 layout: post
-categories: trending / health
+categories: trending 
 author: Radhika Makhecha
 image: /img/latest-US-jobs-data-a-sign-of-robust-growth-in-economy-1.jpg
 cover: /img/latest-US-jobs-data-a-sign-of-robust-growth-in-economy-2.jpg
