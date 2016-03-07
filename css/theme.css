@@ -823,13 +823,13 @@ nav ul {
 }
 .module {
   display: inline-block;
-  padding: 0 32px;
+  padding-left: 32px;
   position: relative;
 }
 .module-group {
   display: inline-block;
   position: relative;
-  padding-right: 200px;
+  padding-right: 240px;
 }
 .module.left,
 .module-group.left {
@@ -918,7 +918,7 @@ nav.bg-dark .logo-dark {
   font-weight: 900;
   letter-spacing: 1px;
   color: #225378;
-  opacity: 0.7;
+  opacity: 0.8;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
