@@ -94,5 +94,32 @@
 
 .main-container-index{
 	clear: both;
-	padding: 80px 100px 0px 100px;
+	padding: 100px 60px 0px 60px;
+}
+
+.recent-post-image{
+	height: 180px;
+	width: 270px;
+	min-height: 150px;
+	overflow:hidden;
+}
+
+.banner-ad-post{
+	width: 728px;
+	height: 90px;
+	max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.post-ad-skyscraper{
+	width: 160px;
+	height: 600px;
+	max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
 }

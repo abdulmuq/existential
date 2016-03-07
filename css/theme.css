@@ -74,7 +74,7 @@ ul.bullets {
 }
 .main-container {
   clear: both;
-  padding: 80px 60px 0px 60px;
+  padding: 80px 80px 0px 80px;
 }
 hr {
   border: none;
@@ -536,7 +536,7 @@ blockquote .author {
 /*!---------- 5. SECTIONS ----------*/
 section,
 footer {
-  padding: 96px 0;
+  padding: 66px 0;
   position: relative;
   overflow: hidden;
 }
@@ -830,7 +830,7 @@ nav ul {
 .module-group {
   display: inline-block;
   position: relative;
-  padding-right: 260px;
+  padding-right: 200px;
 }
 .module.left,
 .module-group.left {
@@ -874,7 +874,7 @@ nav .btn,
 }
 .logo {
   max-height: 100%;
-  margin-left: 75px;
+  margin-left: 45px;
   margin-top: 13px;
   position: relative;
 }
@@ -3760,7 +3760,7 @@ video {
   position: relative;
   top: 2px;
   margin-bottom: 16px;
-  color: #EB7F00;
+  color: black;
 }
 .post-meta,
 .post-meta .tags {

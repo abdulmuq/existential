@@ -1,7 +1,7 @@
 ---
 title: Hillary Clinton Defeats Bernie Sanders to Win South Carolina Primary
 layout: post
-categories: trending
+categories: trending / politics
 author: Radhika Makhecha
 image: /img/hillary-clinton-defeats-bernie-sanders-2.jpg
 ---
