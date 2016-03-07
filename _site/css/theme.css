@@ -44,7 +44,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 17px;
-  font-family: 'Lora', serif;
+  font-family: 'Noto Sans';
   line-height: 32px;
   letter-spacing: 0.2px;
   word-spacing: 4px;
@@ -74,7 +74,7 @@ ul.bullets {
 }
 .main-container {
   clear: both;
-  padding: 80px 80px 0px 80px;
+  padding: 80px 60px 0px 60px;
 }
 hr {
   border: none;
@@ -288,7 +288,7 @@ h5,
 h6 {
   font-weight: 300;
   color: #292929;
-  font-family: "PT serif"
+  font-family: "Montserrat"
 
 }
 h1,
@@ -316,9 +316,9 @@ h3 {
   line-height: 40px;
 }
 h4 {
-  font-size: 28px;
+  font-size: 26px;
   line-height: 32px;
-  font-family: 'PT serif', cursive;
+  font-family: 'Montserrat', sans-serif;
 }
 h5 {
   font-size: 20px;
@@ -364,7 +364,6 @@ h6,
   }
 }
 .uppercase {
-  font-weight: 400;
   text-transform: uppercase;
 }
 h1.uppercase {
@@ -431,8 +430,8 @@ a:hover {
   outline: none;
 }
 a {
-  font-family: 'Lato', sans-serif;
-  font-weight: 200;
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 400;
   color:#225378;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
@@ -459,7 +458,7 @@ a:hover {
   text-decoration: none;
 }
 .label {
-  font-family: "Fredoka one", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 12px;
   line-height: 24px;
   font-weight: 400;
@@ -2669,8 +2668,7 @@ form iframe.mail-list-form {
   color: #225378;
 }
 .link-list a:after {
-  content: "\e628";
-  font-family: 'themify';
+  font-family: 'Montserrat';
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -2686,7 +2684,7 @@ form iframe.mail-list-form {
   margin-bottom: 0;
 }
 .widget .title {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat';
   font-size: 12px;
   line-height: 24px;
   font-weight: 400;
@@ -2708,6 +2706,8 @@ form iframe.mail-list-form {
   -moz-transition: all 0.3s ease;
 }
 .recent-posts .date {
+  font-family: 'Noto Sans';
+  font-size: 12px;
   display: block;
   letter-spacing: 0;
   opacity: .8;
@@ -2840,6 +2840,8 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  float: left;
+  margin-right: 15px;
 }
 .image-tile {
   overflow: hidden;
@@ -2891,7 +2893,7 @@ img {
 .inner-title .title h4,
 .inner-title .title h5,
 .inner-title .title h6 {
-  padding: 14px;
+  padding: 14px 14px 0 14px;
   color: #F3FFE2;
 }
 .inner-title .title p,
@@ -2900,7 +2902,7 @@ img {
   color: #ffffff;
 }
 .inner-title .title h5 {
-  font-weight: 800;
+  font-weight: 500;
 }
 .inner-title {
   transition: all 0.3s ease;

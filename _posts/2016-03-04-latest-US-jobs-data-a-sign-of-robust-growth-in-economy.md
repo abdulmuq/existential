@@ -11,8 +11,8 @@ US employers added 242,000 jobs to its economy, keeping unemployment rate at 4.9
 
 The data came out on Friday, beating government’s expectations of 190,000 jobs. The unexpected rise in number of jobs is a sign of growing US economy amidst global slowdown. The pace of job growth indicates that people are rapidly returning to labor force which is supported by steady consumer spending leading to improvement in demand and expansion of business.
 
+*Source: [ibtimes](http://www.ibtimes.com)*
 ![Existential - Latest US Jobs Data a Sign of Robust Growth in Economy](/img/latest-US-jobs-data-a-sign-of-robust-growth-in-economy-3.jpg)
-Source: [ibtimes](http://www.ibtimes.com)
 
 Job growth was strong in education and healthcare sectors, whereas 19,000 jobs were cut in mining sector and a total of 140,000 jobs have been lost over last year due to continued low oil and natural gas prices. Volatile oil prices and reduced demand in China have led to instability in global markets. Amongst such tumultuous times, the US performance of late might boost confidence in investors.
 
@@ -22,8 +22,8 @@ With better-than-expected job data, Federal Reserve may raise interest rates aga
 
 In the data released on Friday, low wages pointed to room for improvement. Federal policymakers see low wages as sign of inflation. The average hourly wages reduced by 3 cents for the month. Also, the average number of work hours in a week declined to 34.4 from 34.6. If the hourly wages improve, it would help lift US from a period of stagnation due to which many Americans feel the recovery in economy unsatisfying.
 
+*Source: [BusinessInsider](http://www.businessinsider.com)*
 ![Existential - Latest US Jobs Data a Sign of Robust Growth in Economy](/img/latest-US-jobs-data-a-sign-of-robust-growth-in-economy.jpg)
-Source: [BusinessInsider](http://www.businessinsider.com)
 
 The job data of past 65 months have shown consecutive gains, 57 of them have posted more than 100,000 jobs which is required to keep pace with population growth. Taking February’s decline into consideration, wages have risen 2.2 percent over the last 12 months.
 
