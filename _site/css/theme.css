@@ -685,7 +685,7 @@ footer.bg-dark li,
 /*!---------- 6. BUTTONS ----------*/
 .btn {
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  border: 2px solid #2980B9;
+  border: 2px solid #225378;
   padding: 0 26px;
   height: 40px;
   min-width: 150px;
@@ -695,7 +695,7 @@ footer.bg-dark li,
   text-transform: uppercase;
   letter-spacing: 1px;
   border-radius: 3px;
-  color: #2980B9;
+  color: #225378;
   text-align: center;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
@@ -708,7 +708,7 @@ footer.bg-dark li,
   margin-right: 0;
 }
 .btn:hover {
-  background: #2980B9;
+  background: #E63900;
   color: #fff;
 }
 .btn-icon {
@@ -783,7 +783,7 @@ body.btn-rounded .btn {
   color: #222;
 }
 .btn:visited {
-  color: #2980B9;
+  color: #225378;
 }
 .btn-white:visited,
 .btn:visited:hover {
@@ -915,7 +915,7 @@ nav.bg-dark .logo-dark {
   font-size: 11px;
   text-transform: uppercase;
   font-family: 'Lato', sans-serif;
-  font-weight: 600;
+  font-weight: 900;
   letter-spacing: 1px;
   color: #225378;
   opacity: 0.7;

@@ -54,7 +54,7 @@
 .date-font{
 	font-size: 12px;
 	font-family: "Noto Sans";
-	color: #2980B9;
+	color: #225378;
 	font-weight: 400;
 	letter-spacing: 0.5px
 }
@@ -70,8 +70,8 @@
 /*Navigation selected  */
 
 .nav-selected{
-	color: #1695A3;
-	font-weight: 700;
+	color: #E63900;
+	font-weight: 800;
 }
 
 .bg-footer{
