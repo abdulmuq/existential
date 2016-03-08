@@ -103,9 +103,9 @@
 }
 
 .recent-post-image{
-	height: 200px;
-	width: 220px;
-	min-height: 150px;
+	height: 120px;
+	width: 200px;
+	min-height: 100px;
 	overflow:hidden;
 }
 
@@ -135,4 +135,12 @@
 
 .col-sm-3-5{
 	width: 30%;
+}
+
+.right-padding{
+	padding-right: 15px;
+}
+
+.recent-post-width{
+	width: 200px;
 }

@@ -1,7 +1,7 @@
 ---
 title: 5 Challenges Women Still Face on International Women’s Day
 layout: post
-categories: trending / politics
+categories: trending 
 author: Radhika Makhecha
 image: /img/Challenges-Women-Still-Face-on-the-International-Women’s Day-2.jpg
 ---
