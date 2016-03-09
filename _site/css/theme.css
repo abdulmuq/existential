@@ -912,6 +912,9 @@ nav.bg-dark .logo-dark {
   height: 55px;
   position: relative;
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .menu.inline-block {
   width: auto;
