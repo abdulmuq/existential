@@ -172,3 +172,7 @@
     letter-spacing: 0;
     color: #353535;
 }
+
+.uppercase{
+	text-transform: uppercase;
+}

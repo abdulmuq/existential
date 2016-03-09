@@ -46,7 +46,7 @@ body {
   font-size: 16px;
   font-family: 'Noto Sans';
   line-height: 32px;
-  letter-spacing: 0.2px;
+  letter-spacing: 0px;
   word-spacing: 4px;
   font-weight: 700;
   color: #0c0c0c;
@@ -324,7 +324,6 @@ h5 {
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
-  text-transform: uppercase;
 }
 h6,
 .h6 {
@@ -687,7 +686,7 @@ footer.bg-dark li,
 /*!---------- 6. BUTTONS ----------*/
 .btn {
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  border: 1px solid #353535;
+  border: 1px solid #FF0C0C;
   padding: 0 26px;
   height: 40px;
   min-width: 150px;
@@ -697,7 +696,7 @@ footer.bg-dark li,
   text-transform: uppercase;
   letter-spacing: 1px;
   border-radius: 3px;
-  color: #353535;
+  color: #FF0C0C;
   text-align: center;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
@@ -786,7 +785,7 @@ body.btn-rounded .btn {
   color: #222;
 }
 .btn:visited {
-  color: #353535;
+  color: #FF0C0C;
 }
 .btn-white:visited,
 .btn:visited:hover {
@@ -820,6 +819,7 @@ nav {
   background: #fff;
   -webkit-backface-visibility: hidden;
   max-width: 100%;
+  border-bottom: 1px solid #ccc;
 }
 nav ul {
   margin-bottom: 0;
@@ -860,7 +860,6 @@ nav .btn,
   height: 80px;
   max-height: 80px;
   line-height: 80px;
-  border-bottom: 1px solid #ccc;
   text-align: center;
   max-width: 85%;
     display: block;
@@ -2698,6 +2697,7 @@ form iframe.mail-list-form {
   letter-spacing: 2px;
   font-weight: 700;
   margin-bottom: 12px;
+  color: #FF0C0C;
 }
 .widget hr {
   margin-bottom: 12px;
