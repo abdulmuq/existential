@@ -1,6 +1,5 @@
 /****** PLACE YOUR CUSTOM STYLES HERE ******/
 .blog-mason{
-	margin-top: -50px;
 	display: block;
     margin-left: auto;
     margin-right: auto;
@@ -38,7 +37,6 @@
 }
 
 .container-post{
-	margin-top: -50px;
 }
 
 /* index masonry */
@@ -107,8 +105,8 @@
 
 .main-container-post{
 	clear: both;
-	padding-top: 80px;
-	max-width: 85%;
+	padding-top: 120px;
+	max-width: 65%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -176,3 +174,4 @@
 .uppercase{
 	text-transform: uppercase;
 }
+

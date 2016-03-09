@@ -45,8 +45,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-size: 16px;
   font-family: 'Noto Sans';
-  line-height: 32px;
-  letter-spacing: 0px;
+  line-height: 30px;
+  letter-spacing: 0.1px;
   word-spacing: 4px;
   font-weight: 700;
   color: #0c0c0c;
@@ -74,7 +74,7 @@ ul.bullets {
 }
 .main-container {
   clear: both;
-  padding-top: 80px;
+  padding-top: 100px;
 }
 hr {
   border: none;
@@ -536,7 +536,6 @@ blockquote .author {
 /*!---------- 5. SECTIONS ----------*/
 section,
 footer {
-  padding: 66px 0;
   position: relative;
   overflow: hidden;
 }
@@ -710,7 +709,7 @@ footer.bg-dark li,
 }
 .btn:hover {
   background: #FF0C0C;
-  border: #FF0C0C;
+  border: 1px solid #FF0C0C;
   color: #fff;
 }
 .btn-icon {
@@ -861,7 +860,7 @@ nav .btn,
   max-height: 80px;
   line-height: 80px;
   text-align: center;
-  max-width: 85%;
+  max-width: 82%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -2665,7 +2664,7 @@ form iframe.mail-list-form {
 }
 .link-list {
   line-height: 30px;
-  font-size: 14px;
+  font-size: 15px;
   font-family: "Quattrocento Sans";
   letter-spacing: 0.2px;
   word-spacing: 0.7px;
@@ -2703,10 +2702,10 @@ form iframe.mail-list-form {
   margin-bottom: 12px;
 }
 .recent-posts {
-  line-height: 18px;
+  line-height: 22px;
 }
 .recent-posts li {
-  margin-bottom: 8px;
+  margin-bottom: 32px;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -2901,7 +2900,7 @@ img {
 .inner-title .title h5,
 .inner-title .title h6 {
   padding: 14px 14px 0 14px;
-  color: #F3FFE2;
+  color: white;
 }
 .inner-title .title p,
 .inner-title .title span,
@@ -3918,7 +3917,7 @@ video {
   height: 50px;
   margin: 0 auto;
   border-radius: 50%;
-  box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.1), 2px 1px 0px #225378;
+  box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.1), 2px 1px 0px #FF0C0C;
   -moz-animation: spin 0.7s linear infinite;
   -webkit-animation: spin 0.7s linear infinite;
   animation: spin 0.7s linear infinite;
