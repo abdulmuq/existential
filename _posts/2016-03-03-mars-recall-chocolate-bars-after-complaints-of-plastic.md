@@ -1,7 +1,7 @@
 ---
 title: Mars Recalls Chocolate Bars in 55 Countries After Plastic Found in Product
 layout: post
-categories: trending / health
+categories: trending / food
 author: Radhika Makhecha
 image: /img/mars-chocolate-recalls-plastic-complaints-2.jpg
 ---

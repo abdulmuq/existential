@@ -2,7 +2,7 @@
 title: Maria Sharapova Admits to Failing Drug Test at Australian Open
 layout: post
 categories: trending 
-author: Lucy Haden
+author: Hira Siddiqui
 image: /img/Maria-Sharapova-Admits-to-Failing-Drug-Test-at-Australian-Open-2.jpg
 ---
 

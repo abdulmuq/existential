@@ -1,7 +1,7 @@
 ---
 title: Impact of Global Warming on Changing Climatic Conditions
 layout: post
-categories: trending / health
+categories: trending 
 author: Radhika Makhecha
 image: /img/impact-of-global-warming-3.jpg
 ---
