@@ -4,6 +4,7 @@ layout: post
 categories: health / food
 author: Radhika Makhecha
 image: /img/Why-Americans-Have-Stopped-Consuming-Orange-Juice-2.jpg
+cover: /img/Why-Americans-Have-Stopped-Consuming-Orange-Juice-3.jpg
 ---
 
 

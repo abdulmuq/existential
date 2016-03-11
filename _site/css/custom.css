@@ -78,8 +78,8 @@
 }
 
 .index-cover{
-	width:70%;
-	margin-top: 20px;
+	max-height: 400px;
+	height: 400px;
 }
 
 .mu10{
@@ -93,8 +93,8 @@
 
 .main-container-index{
 	clear: both;
-	padding-top: 100px;
-	max-width: 1280px;
+	padding-top: 80px;
+	max-width: 95%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -172,3 +172,34 @@
 	text-transform: uppercase;
 }
 
+.index-masonry-image{
+	width: 50%;
+}
+
+.pt30{
+	padding-top: 50px;
+}
+
+.inner-index{
+	background: #f8f8f8;
+    padding: 20px;
+}
+
+.index-mason-font{
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #292929;
+    letter-spacing: 0.5px;
+    line-height: 20px;
+    word-spacing: 4px;
+}
+
+.mr10{
+	margin-right: 10px;
+}
+
+h4:hover{
+	color: #fff;
+  	text-decoration: none;
+}
