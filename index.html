@@ -5,7 +5,7 @@ title: existential.us
   
 
     <div class="main-container-index">		
-		 	<section class="projects p0 bg-dark">
+		<!-- 	<section class="projects p0 bg-dark">
                 <div class="row masonry-loader fixed-center">
                     <div class="col-sm-12 text-center">
                         <div class="spinner"></div>
@@ -26,10 +26,10 @@ title: existential.us
                 {% endfor %}
                 </div>
             </section>
-        </div> 
+        </div> -->
 
 
-    <!--    <section class="projects">
+        <section class="projects">
             <div class="index-masonry">
                 <div class="row masonry-loader fixed-center">
                     <div class="col-sm-12 text-center">
@@ -43,7 +43,7 @@ title: existential.us
                             <a href="{{ post.url }}">
                                 <img alt="Pic" src="{{ post.cover }}" />
                                 <div class="title">
-                                    <h4 class="uppercase mb0 mu30">{{ post.title }}</h4>
+                                    <h3 class="uppercase mb0 mu30">{{ post.title }}</h4>
                                     <p class="lead mb0">{{ post.content | strip_html | truncatewords: 15 }}</p>
                                 </div>
                             </a>
@@ -60,6 +60,9 @@ title: existential.us
                     <div class="row masonry mb40">
                         {% for post in site.posts offset:1 %}
                         <div class="col-sm-6 post-snippet masonry-item inner-index">
+                            <div>
+                                <p class="index-category">{{ post.categories }}</p>
+                            </div>
                             <a href="{{ post.url }}">
                                 <img class="mb8 index-masonry-image" alt="Post Image" src="{{ post.image }}" />
                             </a>
@@ -73,9 +76,10 @@ title: existential.us
                                 </p>
                                 </a>
                             </div>
+
                         </div>
                         {% endfor %}
                     </div>
                 </div>
             </section>
-    </div> -->
+    </div>

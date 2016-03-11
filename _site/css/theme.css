@@ -286,7 +286,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 300;
+  font-weight: 600;
   color: #292929;
   font-family: "Montserrat"
 
@@ -321,9 +321,9 @@ h4 {
   font-family: 'Montserrat', sans-serif;
 }
 h5 {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 24px;
-  font-weight: 800;
+  font-weight: 600;
 }
 
 h5:hover{
@@ -357,7 +357,7 @@ h6,
     line-height: 26px;
   }
   h5 {
-    font-size: 16px;
+    font-size: 15px;
     line-height: 24px;
     font-weight: 400;
   }
@@ -410,7 +410,7 @@ span {
   font-weight: 400;
 }
 p.lead {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 20px;
 }
@@ -865,7 +865,7 @@ nav .btn,
   max-height: 80px;
   line-height: 80px;
   text-align: center;
-  max-width: 1000px;
+  max-width: 80%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -2911,7 +2911,7 @@ img {
 .inner-title .title {
   position: absolute;
   width: 100%;
-  top: 45%;
+  top: 20%;
   z-index: 5;
 }
 .inner-title .title h1,
@@ -2920,12 +2920,12 @@ img {
 .inner-title .title h4,
 .inner-title .title h5,
 .inner-title .title h6 {
-  padding: 14px 14px 0 14px;
+  padding: 14px 150px 0 150px;
   color: #fff;
 }
 
-.inner-title .title h4:hover{
-  padding: 14px 14px 0 14px;
+.inner-title .title h3:hover{
+  padding: 14px 150px 0 150px;
   color: #FF0C0C;
 }
 
