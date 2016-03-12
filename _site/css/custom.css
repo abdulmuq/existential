@@ -144,7 +144,7 @@
 }
 
 .right-padding{
-	padding-right: 25px;
+	padding-right: 40px;
 }
 
 .recent-post-width{
@@ -206,4 +206,9 @@
 	color: #FF0C0C;
 	text-transform: uppercase;
 	margin-bottom: 5px;
+}
+
+.recent-post-text{
+	font-weight: 900;
+}
 

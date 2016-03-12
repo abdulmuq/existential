@@ -48,7 +48,7 @@ body {
   line-height: 30px;
   letter-spacing: 0.1px;
   word-spacing: 4px;
-  font-weight: 700;
+  font-weight: 400;
   color: #0c0c0c;
 }
 body.boxed-layout {
@@ -263,7 +263,6 @@ blockquote,
 input,
 select,
 textarea {
-  margin-bottom: 24px;
   margin-top: 0;
   padding: 0;
 }

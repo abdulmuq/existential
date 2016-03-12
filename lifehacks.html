@@ -5,51 +5,30 @@ title: lifehacks
 
 <div class="main-container">
            
-            <section class="bg-secondary">
-                <div class="container blog-mason">
-                    <div class="row masonry-loader">
-                        <div class="col-sm-12 text-center">
-                            <div class="spinner"></div>
-                        </div>
-                    </div>
-                    <div class="row masonry masonryFlyIn mb40">
+            <section class=" pt30">
+                <div class="container">
+                    <div class="row masonry mb40">
                         {% for post in site.posts %}
                         {% if post.categories contains 'lifehacks' %}
-                        <div class="col-sm-4 post-snippet masonry-item">
+                        <div class="col-sm-6 post-snippet masonry-item inner-index">
                             <a href="{{ post.url }}">
-                                <img class="mb8" alt="Post Image" src="{{ post.image }}" />
+                                <img class="mb8 index-masonry-image" alt="Post Image" src="{{ post.image }}" />
                             </a>
-                            <div class="inner">
+                            <div class="index-mason-text">
                                 <a href="{{ post.url }}">
-                                    <h5 class="mb0 uppercase">{{ post.title }}</h5>
+                                    <h5 class="mb0">{{ post.title }}</h5>
                                     <span class="inline-block mb4 date-font">{{ post.date | date_to_string }}</span>
-                                </a>
-                                <hr>
-                                <p class="category-font">
-                                    {{ post.content | strip_html | truncatewords: 25 }}
+                                
+                                <p class="index-mason-font">
+                                    {{ post.content | strip_html | truncatewords: 20 }}
                                 </p>
-                                <a class="btn btn-sm" href="{{ post.url }}">Read More</a>
-                                <ul class="tags pull-right">
-                                    <li>
-                                        <a class="btn btn-sm btn-icon" href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{ site.url }}{{ post.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">
-                                            <i class="ti-twitter-alt"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a class="btn btn-sm btn-icon" href="https://facebook.com/sharer.php?u={{ site.url }}{{ post.url }}" rel="nofollow" target="_blank" title="Share on Facebook">
-                                            <i class="ti-facebook"></i>
-                                        </a>
-                                    </li>
-                                </ul>
+                                </a>
                             </div>
+                            
                         </div>
                         {% endif %}
                         {% endfor %}
-                        <!--end of snippet-->
                     </div>
-                    <!--end of row-->
-                   
-
                 </div>
-        </section>
+            </section>
     </div>
