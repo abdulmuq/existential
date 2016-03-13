@@ -320,7 +320,7 @@ h4 {
   font-family: 'Montserrat', sans-serif;
 }
 h5 {
-  font-size: 20px;
+  font-size: 18px;
   line-height: 24px;
   font-weight: 600;
 }
@@ -2386,9 +2386,9 @@ form iframe.mail-list-form {
 .pagination li a:hover,
 .pagination li.active a,
 .pagination li.active:hover a {
-  background: #47b475;
+  background: #ff3333;
   color: #fff;
-  border-color: #47b475;
+  border-color: #ff3333;
 }
 /*!---------- 18. ICON FEATURES ----------*/
 .feature.boxed {
