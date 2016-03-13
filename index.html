@@ -59,7 +59,8 @@ title: existential.us
                 <div class="container">
                     <div class="row masonry mb40">
                         {% for post in site.posts offset:1 %}
-                        <div class="col-sm-6 post-snippet masonry-item inner-index">
+                        <div class="col-sm-6 post-snippet masonry-item">
+                        <div  class="inner-index">
                             <div>
                                 <p class="index-category">{{ post.categories }}</p>
                             </div>
@@ -76,7 +77,7 @@ title: existential.us
                                 </p>
                                 </a>
                             </div>
-
+                        </div>
                         </div>
                         {% endfor %}
                     </div>

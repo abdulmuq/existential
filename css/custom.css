@@ -173,6 +173,9 @@
 
 .index-masonry-image{
 	width: 50%;
+	max-width: 500px;
+	max-height: 430px;
+	border: 1px solid gray;
 }
 
 .pt30{
@@ -181,6 +184,7 @@
 
 .inner-index{
 	background: #f8f8f8;
+	height: 300px;
     padding: 20px;
 }
 

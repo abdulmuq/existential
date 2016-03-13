@@ -326,7 +326,7 @@ h5 {
 }
 
 h5:hover{
-  color: #FF0C0C;
+  color: #ff3333;
 }
 
 h6,
@@ -458,7 +458,7 @@ a {
   opacity: 1;
 }
 a:hover {
-  color: #FF0C0C;
+  color: #ff3333;
   text-decoration: none;
 }
 .label {
@@ -2925,7 +2925,7 @@ img {
 
 .inner-title .title h3:hover{
   padding: 14px 150px 0 150px;
-  color: #FF0C0C;
+  color: #ff3333;
 }
 
 .inner-title .title p,
@@ -3813,7 +3813,7 @@ video {
   top: 2px;
 }
 .post-snippet iframe {
-  width: 75%;
+  width: 100%;
   margin-bottom: 12px;
 }
 .post-snippet .embed-video-container {
