@@ -1,7 +1,7 @@
 ---
 title: Drone Racing + Head Mounted Displays. The next big thing. Watch to believe.
 layout: post
-categories: Technology
+categories: technology
 author: Derek Durham
 image: /img/Drone-Racing+Head-Mounted-Displays-The-next-big-thing-Watch-to-believe-3.jpg
 cover: /img/Drone-Racing+Head-Mounted-Displays-The-next-big-thing-Watch-to-believe-4.jpg
