@@ -78,8 +78,8 @@
 }
 
 .index-cover{
-	max-height: 400px;
-	height: 400px;
+	max-height: 480px;
+	height: 480px;
 }
 
 .mu10{
@@ -93,7 +93,6 @@
 
 .main-container-index{
 	clear: both;
-	padding-top: 80px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -172,6 +171,8 @@
 	max-width: 500px;
 	max-height: 430px;
 	border: 1px solid gray;
+	padding: 0px;
+	margin-right: 15px;
 }
 
 .pt30{

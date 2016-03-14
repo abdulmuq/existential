@@ -863,6 +863,7 @@ nav .btn,
   height: 80px;
   max-height: 80px;
   line-height: 80px;
+  vertical-align: middle;
   text-align: center;
   max-width: 80%;
     display: block;
@@ -885,6 +886,13 @@ nav .btn,
   max-height: 100%;
   margin-top: 13px;
   position: relative;
+      max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    margin-right: 15px;
+    padding: 0px;
 }
 .logo-light {
   display: none;
@@ -2677,6 +2685,7 @@ form iframe.mail-list-form {
   word-spacing: 0.7px;
   font-weight: 700;
   color: #225378;
+  margin-left: 0px;
 }
 .link-list a:after {
   font-family: 'Montserrat';
@@ -2712,7 +2721,7 @@ form iframe.mail-list-form {
   line-height: 22px;
 }
 .recent-posts li {
-  margin-bottom: 32px;
+  margin-bottom: 16px;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -2854,7 +2863,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   float: left;
-  margin-right: 15px;
+  padding:15px 15px 15px 0px;
 }
 .image-tile {
   overflow: hidden;
@@ -2910,7 +2919,7 @@ img {
 .inner-title .title {
   position: absolute;
   width: 100%;
-  top: 20%;
+  top: 30%;
   z-index: 5;
 }
 .inner-title .title h1,
@@ -3814,7 +3823,7 @@ video {
 }
 .post-snippet iframe {
   width: 100%;
-  margin-bottom: 12px;
+  padding: 15px 15px 15px 0;
 }
 .post-snippet .embed-video-container {
   margin-bottom: 24px;

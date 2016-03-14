@@ -64,9 +64,13 @@ title: existential.us
                             <div>
                                 <p class="index-category">{{ post.categories }}</p>
                             </div>
-                            <a href="{{ post.url }}">
-                                <img class="mb8 index-masonry-image" alt="Post Image" src="{{ post.image }}" />
-                            </a>
+                            <div class="index-masonry-image-1">
+                                <div class="index-masonry-image-2">
+                                <a href="{{ post.url }}">
+                                    <img class="mb8 index-masonry-image" alt="Post Image" src="{{ post.image }}" />
+                                </a>
+                                </div>
+                            </div>
                             <div class="index-mason-text">
                                 <a href="{{ post.url }}">
                                     <h5 class="mb0">{{ post.title }}</h5>
