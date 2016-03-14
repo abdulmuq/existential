@@ -5,5 +5,6 @@ port: 4000
 permalink: date
 categories: [lifehacks, health, food, technology]
 google_analytics: UA-72221479-1
-#paginate: 10
-#gems: [jekyll-paginate]
+
+paginate: 11
+gems: [jekyll-paginate]

@@ -58,7 +58,7 @@ title: existential.us
             <section class=" pt30">
                 <div class="container">
                     <div class="row masonry mb40">
-                        {% for post in site.posts offset:1 %}
+                        {% for post in paginator.posts offset:1 %}
                         <div class="col-sm-6 post-snippet masonry-item">
                         <div  class="inner-index">
                             <div>
@@ -67,7 +67,7 @@ title: existential.us
                             <div class="index-masonry-image-1">
                                 <div class="index-masonry-image-2">
                                 <a href="{{ post.url }}">
-                                    <img class="mb8 index-masonry-image" alt="Post Image" src="{{ post.image }}" />
+                                    <img class="mb8 index-masonry-image" alt="Post Image" src="{{ site.url }}/{{ post.image }}" />
                                 </a>
                                 </div>
                             </div>
@@ -87,40 +87,87 @@ title: existential.us
                     </div>
                 </div>
             </section>
-        <!--    <section class="bg-secondary">
+
+            {% if paginator.total_pages > 1 %}
+            <section class="bg-secondary">
                 <div class="container">
                     <div class="row">
                             <div class="text-center">
                                 <ul class="pagination">
+                                    {% if paginator.previous_page %}
                                     <li>
-                                        <a href="#" aria-label="Previous">
+                                        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Previous">
                                             <span aria-hidden="true">&laquo;</span>
                                         </a>
                                     </li>
+                                    <li>
+                                        {% else %}
+                                        {% endif %}
+                                    </li>
+                                    
+
+
+                                {% for page in (1..paginator.total_pages) %}
+                                    {% if page == paginator.page %}
                                     <li class="active">
-                                        <a href="#">1</a>
+                                        <a>{{ page }}</a>
                                     </li>
+
+                                    {% elsif page == 1 %}
+
                                     <li>
-                                        <a href="#">2</a>
+                                        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
                                     </li>
+
+                                    {% else %}
+
                                     <li>
-                                        <a href="#">3</a>
+                                        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
                                     </li>
+                                    {% endif %}
+                                    {% endfor %}
+                                    
+                                    {% if paginator.next_page %}
                                     <li>
-                                        <a href="#">4</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">5</a>
-                                    </li>
-                                    <li>
-                                        <a href="#" aria-label="Next">
+                                        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Next">
                                             <span aria-hidden="true">&raquo;</span>
                                         </a>
+                                        {% else %}
+                                        {% endif %}
                                     </li>
                                 </ul>
+                                
                             </div>
                         </div>
                     </div>
-                </section> -->
+                </section> 
+                {% endif %}
+
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
 
     </div>
