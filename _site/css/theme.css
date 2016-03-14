@@ -4004,6 +4004,7 @@ video {
 }
 .image-xxs {
   max-height: 30px;
+  padding: 0px;
 }
 .fade-half {
   opacity: 0.5;
@@ -4389,7 +4390,7 @@ video {
 }
 /*!---------- 35. FOOTERS ----------*/
 footer.bg-dark a {
-  color: #ACF0F2;
+  color: #fefefe;
 }
 .footer-1 .logo {
   max-height: 30px;
