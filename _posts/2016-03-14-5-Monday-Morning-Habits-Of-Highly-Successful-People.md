@@ -2,7 +2,7 @@
 title: 5 Monday Morning Habits Of Highly Successful People
 layout: post
 categories: technology / trending
-author: Derek Durham
+author: Radhika Makhecha
 image: /img/5-Monday-Morning-Habits-Of-Highly-Successful-People-1.jpg
 cover: /img/5-Monday-Morning-Habits-Of-Highly-Successful-People-2.jpg
 ---
