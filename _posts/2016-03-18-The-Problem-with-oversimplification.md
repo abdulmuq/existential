@@ -2,7 +2,7 @@
 title: The problem with over-simplification.
 layout: post
 categories: lifehacks
-author: Derek Durham
+author: Asif Ali
 image: /img/The-Problem-with-oversimplification-2.jpg
 cover: /img/The-Problem-with-oversimplification-3.jpg
 ---
