@@ -9,6 +9,8 @@ cover: /img/The-Return-of-Disney-California-Adventure-Food-&-Wine-Festival-3.jpg
 
 ![Existential - The Return of Disney California's Adventure Food & Wine Festival](/img/The-Return-of-Disney-California-Adventure-Food-&-Wine-Festival.jpg)
 
+Source: [Inside The Magic](http://www.insidethemagic.net)
+
 This spring season, celebrate the delights of California cuisine, wine and beverages at Disney California Adventure Food & Wine Festival from April 1 to May 1, 2016.
 
 It’s time for foodies to rejoice after six years break as the famous food and wine festival returns with mouth-watering dishes and unique beverages as well as special experiences for guests to enjoy.
@@ -23,7 +25,7 @@ In case you want to quench your thirst for knowledge about wine, beer and spirit
 
 California's celebrated wines, including flights of cabernet, chardonnay, and pinot noir, will be featured at The Vineyard, while The Brewhouse will offer California craft beer flights.
 
-Disney California Adventure Restaurants will offer festival-inspired food items. For instance, Pacific Wharf Café will offer Dungeness Crab Corn Chowder served in a Boudin sourdough boule and Cocina Cucamonga Mexican Grill will serve Shredded Pork Tostadas with grilled pineapple slaw and chipotle crèma. Check out Complete Foodie Guide to Disney California Adventure Food & Wine Festival at Disneyland Resort.
+Disney California Adventure Restaurants will offer festival-inspired food items. For instance, Pacific Wharf Café will offer Dungeness Crab Corn Chowder served in a Boudin sourdough boule and Cocina Cucamonga Mexican Grill will serve Shredded Pork Tostadas with grilled pineapple slaw and chipotle crèma. Check out [Complete Foodie Guide to Disney California Adventure Food & Wine Festival at Disneyland Resort.](https://disneyparks.disney.go.com/blog/2016/03/complete-foodie-guide-to-disney-california-adventure-food-wine-festival-at-disneyland-resort/)
 
 Celebrity kitchen will be held at Stage 17 in Hollywood Land. World-renowned chefs Guy Fieri, Graham Elliot, Claudia Sandoval, Keegan Gerhard, Robert Irvine and Disneyland Resort Executive Chef Andrew Sutton will share their tips, treasured recipes and behind-the-scenes-stories. They will also show you how to create their personal favorite dishes. An autograph signing will follow each chef appearance. Cost is $99 per person, plus tax and gratuity.
 
@@ -31,4 +33,4 @@ Disneyland Resort Annual Passholders will enjoy a special Celebrity Kitchen VIP 
 
 Apart from that, you can celebrate springtime in beautiful California with lots to learn about gardening, horticulture and health & wellness at Lifestyle seminars, Hollywood Land.
 
-To learn more about the festival, or make reservations for premium experiences click Disney California Adventure Food and Wine Festival.
+To learn more about the festival, or make reservations for premium experiences click Disney [California Adventure Food and Wine Festival.](https://disneyland.disney.go.com/events-tours/disney-california-adventure/food-and-wine-festival/)
