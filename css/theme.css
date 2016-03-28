@@ -3809,7 +3809,7 @@ video {
 .post-meta .tags {
   overflow: hidden;
   display: inline-block;
-  margin-bottom: 12px;
+  margin-bottom: 5px;
 }
 .post-meta > li {
   float: left;
