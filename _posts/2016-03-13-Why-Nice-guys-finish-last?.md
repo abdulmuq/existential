@@ -1,7 +1,7 @@
 ---
 title: Why Nice Guys Finish Last?
 layout: post
-categories: trending / lifehacks
+categories: relationships / lifehacks
 author: Hira Siddiqui
 image: /img/Why-nice-guys-finish-last-2.jpg
 cover: /img/Why-nice-guys-finish-last-3.jpg

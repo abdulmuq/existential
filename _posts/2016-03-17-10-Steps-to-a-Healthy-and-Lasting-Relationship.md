@@ -1,7 +1,7 @@
 ---
 title: 10 Steps to a Healthy & Lasting Relationship
 layout: post
-categories: lifehacks
+categories: lifehacks / relationships
 author: Hira Siddiqui
 image: /img/10-Steps-to-a-Healthy-&-Lasting-Relationship-3.jpg
 cover: /img/10-Steps-to-a-Healthy-&-Lasting-Relationship-4.jpg

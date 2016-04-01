@@ -1,7 +1,7 @@
 ---
 title: 5 Reasons ‘Now’ is a Good time to be Happy
 layout: post
-categories: lifehacks
+categories: lifehacks / relationships
 author: Hira Siddiqui
 image: /img/5-Reasons-Now-is-a-Good-time-to-be-Happy-3.jpg
 cover: /img/5-Reasons-Now-is-a-Good-time-to-be-Happy-4.jpg

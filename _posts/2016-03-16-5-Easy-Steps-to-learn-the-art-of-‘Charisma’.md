@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Steps to learn the art of ‘Charisma’
 layout: post
-categories: lifehacks
+categories: lifehacks / relationships
 author: Hira Siddiqui
 image: /img/5-Easy-Steps-to-learn-the-art-of-‘Charisma’-3.jpg
 cover: /img/5-Easy-Steps-to-learn-the-art-of-‘Charisma’-2.jpg

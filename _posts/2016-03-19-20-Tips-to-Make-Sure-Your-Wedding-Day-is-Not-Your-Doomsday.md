@@ -1,7 +1,7 @@
 ---
 title: 20 Tips to Make Sure Your Wedding Day is Not Your Doomsday
 layout: post
-categories: lifehacks
+categories: lifehacks / relationships
 author: Radhika Makhecha
 image: /img/20-Tips-to-Make-Sure-Your-Wedding-Day-is-Not-Your-Doomsday-2.jpg
 cover: /img/20-Tips-to-Make-Sure-Your-Wedding-Day-is-Not-Your-Doomsday-3.jpg

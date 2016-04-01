@@ -1,7 +1,7 @@
 ---
 title: 10 Secrets of Exceptionally ‘Likeable’ People
 layout: post
-categories: lifehacks
+categories: lifehacks / relationships
 author: Hira Siddiqui
 image: /img/10-Secrets-of-Exceptionally-Likeable-People-2.jpg
 cover: /img/10-Secrets-of-Exceptionally-Likeable-People-3.jpg
