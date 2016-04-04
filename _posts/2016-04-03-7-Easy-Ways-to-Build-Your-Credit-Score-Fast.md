@@ -1,7 +1,7 @@
 ---
 title: "7 Easy Ways to Build Your Credit Score – Fast"
 layout: post
-categories: trending / technology
+categories: lifehacks
 author: Hira Siddiqui
 image: /img/7-Easy-Ways-to-Build-Your-Credit-Score-Fast-2.jpg
 cover: /img/7-Easy-Ways-to-Build-Your-Credit-Score-Fast-3.jpg
