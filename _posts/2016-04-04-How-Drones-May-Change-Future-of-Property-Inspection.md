@@ -1,7 +1,7 @@
 ---
 title: How Drones May Change Future of Property Inspection
 layout: post
-categories: lifehacks / health
+categories: lifehacks / technology
 author: Radhika Makhecha
 image: /img/How-Drones-May-Change-Future-of-Property-Inspection-2.jpg
 cover: /img/How-Drones-May-Change-Future-of-Property-Inspection-3.jpg
@@ -21,13 +21,13 @@ Property inspection by drones is not just convenient and economical, it also off
 
 Apart from property inspection, drones can be used for number of purposed such as,
 
-	*Search & Rescue
-	*Security
-	*Power Infrastructure Inspection
-	*Surveillance
-	*Science & Research
-	*Aerial Photography & Video
-	*Surveying / GIS
-	*Logistics
+1. Search & Rescue
+2. Security
+3. Power Infrastructure Inspection
+4. Surveillance
+5. Science & Research
+6. Aerial Photography & Video
+7. Surveying / GIS
+8. Logistics
 
 Of course, the areas of application are not limited to these few examples. If other insurance companies adopt the use of drones like State Farm, it might change the way we look at property inspection.
