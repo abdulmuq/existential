@@ -1,7 +1,7 @@
 ---
 title: Chatbots. The new apps?
 layout: post
-categories: lifehacks / trending
+categories: technology / trending
 author: Radhika Makhecha
 image: /img/Chatbots-The-New-Apps-2.jpg
 cover: /img/Chatbots-The-New-Apps-3.jpg
