@@ -3,7 +3,7 @@ title: Vegetable oil is not as healthy as we think
 layout: post
 categories: trending / health
 author: Lucy Haden
-image: /imgVegetable-oil-is-not-as-healthy-as-we-think-2.jpg
+image: /img/Vegetable-oil-is-not-as-healthy-as-we-think-2.jpg
 cover: /img/Vegetable-oil-is-not-as-healthy-as-we-think-3.jpg
 ---
 
