@@ -1,7 +1,7 @@
 ---
 title: "How to Improve your Sex Life with Weed?"
 layout: post
-categories: trending / health / relationship
+categories: trending / lifehacks / relationships
 author: Hira Siddiqui
 image: /img/How-to-Improve-your-Sex-Life-with-Weed-2.jpg
 cover: /img/How-to-Improve-your-Sex-Life-with-Weed-3.jpg
