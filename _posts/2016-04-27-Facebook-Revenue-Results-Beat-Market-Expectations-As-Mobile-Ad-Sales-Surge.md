@@ -1,7 +1,7 @@
 ---
 title: Facebook Revenue Results Beat Market Expectations As Mobile Ad Sales Surge
 layout: post
-categories: lifehacks 
+categories: trending / technology
 author: Radhika Makhecha
 image: /img/Facebook-Revenue-Results-Beat-Market-Expectations-As-Mobile-Ad-Sales-Surge-2.jpg
 cover: /img/Facebook-Revenue-Results-Beat-Market-Expectations-As-Mobile-Ad-Sales-Surge-3.jpg
