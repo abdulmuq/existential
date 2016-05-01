@@ -1,7 +1,7 @@
 ---
 title: 5 Steps to Raising Highly Successful Children
 layout: post
-categories: trending / technology
+categories: lifehacks / relationships
 author: Hira Siddiqui
 image: /img/5-Steps-to-Raising-Highly-Successful-Children-2.jpg
 cover: /img/5-Steps-to-Raising-Highly-Successful-Children-3.jpg
