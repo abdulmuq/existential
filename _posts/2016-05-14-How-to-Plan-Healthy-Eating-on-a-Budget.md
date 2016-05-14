@@ -1,7 +1,7 @@
 ---
 title: "How to Plan Healthy Eating on a Budget"
 layout: post
-categories: trending / health
+categories: health / lifehacks
 author: Radhika Makhecha
 image: /img/How-to-Plan-Healthy-Eating-on-a-Budget-2.jpg
 cover: /img/How-to-Plan-Healthy-Eating-on-a-Budget-3.jpg

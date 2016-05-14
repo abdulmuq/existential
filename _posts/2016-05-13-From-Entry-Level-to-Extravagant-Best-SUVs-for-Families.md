@@ -1,7 +1,7 @@
 ---
 title: "From Entry-Level to Extravagant: Best SUVs for Families"
 layout: post
-categories: trending / health
+categories: lifehacks / technology
 author: Radhika Makhecha
 image: /img/From-Entry-Level-to-Extravagant-Best-SUVs-for-Families-2.jpg
 cover: /img/From-Entry-Level-to-Extravagant-Best-SUVs-for-Families-3.jpg
